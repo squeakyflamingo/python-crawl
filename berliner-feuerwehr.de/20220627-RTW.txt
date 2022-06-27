@@ -47,8 +47,7 @@
         "RTW, Besatzung von LRW 1100"
     ],
     "6500": [
-        "RTW",
-        "RTW 6400 (12/7)"
+        "RTW"
     ],
     "6400": [
         "RTW",
@@ -138,8 +137,7 @@
         "RTW, Besatzung von OE RD"
     ],
     "2600": [
-        "RTW",
-        "RTW 2650 (12/7)"
+        "RTW"
     ],
     "1300": [
         "RTW",

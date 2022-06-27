@@ -133,8 +133,7 @@
     ],
     "6500": [
         "LHF",
-        "RTW",
-        "RTW 6400 (12/7)"
+        "RTW"
     ],
     "6400": [
         "LHF",
@@ -371,8 +370,7 @@
         "RTW",
         "ELW 1 C",
         "GW SAN",
-        "FwA Notstrom",
-        "RTW 2650 (12/7)"
+        "FwA Notstrom"
     ],
     "1300": [
         "LHF",

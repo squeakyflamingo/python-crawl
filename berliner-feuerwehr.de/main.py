@@ -66,7 +66,7 @@ def getFahrzeuge():
         for div in fzbf:
             for caption in div.find_all("figcaption"):
                 fahrzeug = caption.contents[0]
-                if re.match("^(?!.*(Besatzung|0{3})).*(\d{4})$", fahrzeug):  # Filtern von Stützpunktfahrzeugen
+                if re.match("^(?!.*(Besatzung|0{3})).*(\d{4})(?:.*\(\d\d\/\d\))?$", fahrzeug):  # Filtern von Stützpunktfahrzeugen
                     continue
                 fahrzeugListe.append(fahrzeug)
 
