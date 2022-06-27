@@ -1,0 +1,310 @@
+{
+    "3600": [
+        "RTW",
+        "RTW (12/7)"
+    ],
+    "3300": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW JUH"
+    ],
+    "3400": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW DRK"
+    ],
+    "3503": [
+        "RTW, Besatzung von FW 3500"
+    ],
+    "3390": [
+        "RTW MHD"
+    ],
+    "3404": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "3304": [
+        "RTW, Besatzung von FW 1400"
+    ],
+    "1200": [
+        "RTW",
+        "RTW (12/7)",
+        "RTW JUH"
+    ],
+    "1600": [
+        "RTW",
+        "RTW",
+        "RTW JUH"
+    ],
+    "1500": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW, Besatzung von OE RD (16/5)",
+        "RTW, Besatzung von OE RD",
+        "RTW DRK"
+    ],
+    "1204": [
+        "RTW, Besatzung von OE RD (16/5)",
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "6500": [
+        "RTW",
+        "RTW 6400 (12/7)"
+    ],
+    "6400": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW, Besatzung von FW 6500 (12/7)",
+        "RTW ASB"
+    ],
+    "6320": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "6310": [
+        "RTW, Besatzung von OE RD (12/7)",
+        "RTW ASB"
+    ],
+    "6330": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "6490": [
+        "RTW ASB"
+    ],
+    "6200": [
+        "RTW",
+        "RTW (12/7)",
+        "RTW ASB"
+    ],
+    "6100": [
+        "RTW",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-AZ",
+        "RTW ASB"
+    ],
+    "6120": [
+        "RTW, Besatzung von FW 6100"
+    ],
+    "6110": [
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "6204": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "1400": [
+        "RTW"
+    ],
+    "2100": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW DRK"
+    ],
+    "1700": [
+        "RTW",
+        "RTW MHD"
+    ],
+    "2500": [
+        "RTW",
+        "RTW-B",
+        "RTW BW"
+    ],
+    "1110": [
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "3504": [
+        "RTW, Besatzung von FW 1700"
+    ],
+    "1100": [
+        "RTW-S",
+        "RTW-S",
+        "RTW-I",
+        "RTW",
+        "RTW",
+        "RTW-AZ",
+        "RTW BW"
+    ],
+    "5200": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW JUH"
+    ],
+    "5100": [
+        "RTW",
+        "RTW-B",
+        "RTW-AZ",
+        "RTW, Besatzung von OE RD (12/7)",
+        "RTW DRK"
+    ],
+    "5210": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "2600": [
+        "RTW",
+        "RTW 2650 (12/7)"
+    ],
+    "1300": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-AZ",
+        "RTW BW"
+    ],
+    "6300": [
+        "RTW",
+        "RTW-B",
+        "RTW-AZ",
+        "RTW, Besatzung von OE RD",
+        "RTW MHD"
+    ],
+    "2630": [
+        "RTW, Besatzung von FW 1300"
+    ],
+    "2620": [
+        "RTW, Besatzung von FW 1300"
+    ],
+    "2720": [
+        "RTW MHD"
+    ],
+    "2650": [
+        "RTW, Besatzung von FW 2600 (12/7)"
+    ],
+    "1310": [
+        "RTW, Besatzung von OE RD (16/5)",
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "2640": [
+        "RTW, Besatzung von FW 2200"
+    ],
+    "2704": [
+        "RTW, Besatzung von FW 6300"
+    ],
+    "2604": [
+        "RTW MHD"
+    ],
+    "2300": [
+        "RTW"
+    ],
+    "2400": [
+        "RTW (12/7)",
+        "RTW MHD"
+    ],
+    "2200": [
+        "RTW",
+        "RTW MHD"
+    ],
+    "2320": [
+        "RTW",
+        "RTW, Besatzung von FW 2300"
+    ],
+    "2420": [
+        "RTW, Besatzung von FW 2400"
+    ],
+    "3100": [
+        "RTW",
+        "RTW-AZ",
+        "RTW DRK"
+    ],
+    "3200": [
+        "RTW",
+        "RTW (12/7)",
+        "RTW-B",
+        "RTW-AZ",
+        "RTW DRK"
+    ],
+    "3210": [
+        "RTW"
+    ],
+    "3220": [
+        "RTW, Besatzung von FW 3200"
+    ],
+    "3110": [
+        "RTW, Besatzung von FW 3100"
+    ],
+    "3104": [
+        "RTW, Besatzung von FW 3100"
+    ],
+    "3103": [
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "3690": [
+        "RTW DRK"
+    ],
+    "4600": [
+        "RTW",
+        "RTW-B",
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "4200": [
+        "RTW",
+        "RTW"
+    ],
+    "4500": [
+        "RTW",
+        "RTW (12/7)"
+    ],
+    "4100": [
+        "RTW",
+        "RTW-B",
+        "RTW-AZ"
+    ],
+    "4604": [
+        "RTW, Besatzung von FW 4100"
+    ],
+    "4700": [
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW, Besatzung von OE RD (12/5)"
+    ],
+    "4400": [
+        "RTW",
+        "RTW (12/7)",
+        "RTW JUH"
+    ],
+    "4300": [
+        "RTW",
+        "RTW DRK"
+    ],
+    "4710": [
+        "RTW, Besatzung von OE RD (12/7)",
+        "RTW JUH"
+    ],
+    "3490": [
+        "RTW DRK"
+    ],
+    "4390": [
+        "RTW, Besatzung von OE RD",
+        "RTW, Besatzung von OE RD (12/5)",
+        "RTW, Besatzung von OE RD"
+    ],
+    "4790": [
+        "RTW JUH"
+    ],
+    "5400": [
+        "RTW",
+        "RTW-B",
+        "RTW-AZ",
+        "RTW, Besatzung von OE RD (12/5)"
+    ],
+    "5300": [
+        "RTW",
+        "RTW-B",
+        "RTW-AZ",
+        "RTW JUH (16/7)"
+    ],
+    "5330": [
+        "RTW, Besatzung von FW 5300"
+    ],
+    "5410": [
+        "RTW, Besatzung von FW 5400"
+    ],
+    "5390": [
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "5304": [
+        "RTW, Besatzung von FW 5100"
+    ],
+    "5404": [
+        "RTW ASB"
+    ],
+    "5490": [
+        "RTW ASB"
+    ]
+}

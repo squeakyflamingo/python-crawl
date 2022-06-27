@@ -1,0 +1,478 @@
+{
+    "3600": {
+        "name": "Feuerwache Charlottenburg-Nord 3600",
+        "url": "/ueber-uns/standorte/feuerwache-charlottenburg-nord/"
+    },
+    "3500": {
+        "name": "Feuerwache Ranke 3500",
+        "url": "/ueber-uns/standorte/feuerwache-ranke/"
+    },
+    "3300": {
+        "name": "Feuerwache Suarez 3300",
+        "url": "/ueber-uns/standorte/feuerwache-suarez/"
+    },
+    "3400": {
+        "name": "Feuerwache Wilmersdorf 3400",
+        "url": "/ueber-uns/standorte/feuerwache-wilmersdorf/"
+    },
+    "3301": {
+        "name": "Freiwillige Feuerwehr Suarez 3301",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-suarez/"
+    },
+    "3401": {
+        "name": "Freiwillige Feuerwehr Wilmersdorf 3401",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-wilmersdorf/"
+    },
+    "3503": {
+        "name": "Rettungswache Budapester Stra\u00dfe 3503",
+        "url": "/ueber-uns/standorte/rettungswache-budapester-strasse/"
+    },
+    "3390": {
+        "name": "Rettungswache Lietzow 3390",
+        "url": "/ueber-uns/standorte/rettungswache-lietzow/"
+    },
+    "3404": {
+        "name": "Rettungswache Schmargendorf 3404",
+        "url": "/ueber-uns/standorte/rettungswache-schmargendorf/"
+    },
+    "3304": {
+        "name": "Rettungswache Westend 3304",
+        "url": "/ueber-uns/standorte/rettungswache-westend/"
+    },
+    "3639": {
+        "name": "Technischer Dienst I 3639",
+        "url": "/ueber-uns/standorte/technischer-dienst-i/"
+    },
+    "1200": {
+        "name": "Feuerwache Friedrichshain 1200",
+        "url": "/ueber-uns/standorte/feuerwache-friedrichshain/"
+    },
+    "1600": {
+        "name": "Feuerwache Kreuzberg 1600",
+        "url": "/ueber-uns/standorte/feuerwache-kreuzberg/"
+    },
+    "1500": {
+        "name": "Feuerwache Urban 1500",
+        "url": "/ueber-uns/standorte/feuerwache-urban/"
+    },
+    "1201": {
+        "name": "Freiwillige Feuerwehr Friedrichshain 1201",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-friedrichshain/"
+    },
+    "1601": {
+        "name": "Freiwillige Feuerwehr Kreuzberg 1601",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-kreuzberg/"
+    },
+    "1501": {
+        "name": "Freiwillige Feuerwehr Urban 1501",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-urban/"
+    },
+    "1204": {
+        "name": "Rettungswache Am Friedrichshain 1204",
+        "url": "/ueber-uns/standorte/rettungswache-am-friedrichshain/"
+    },
+    "6500": {
+        "name": "Feuerwache Karlshorst 6500",
+        "url": "/ueber-uns/standorte/feuerwache-karlshorst/"
+    },
+    "6400": {
+        "name": "Feuerwache Lichtenberg 6400",
+        "url": "/ueber-uns/standorte/feuerwache-lichtenberg/"
+    },
+    "6320": {
+        "name": "Freiwillige Feuerwehr Falkenberg 6320",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-falkenberg/"
+    },
+    "6310": {
+        "name": "Freiwillige Feuerwehr Hohensch\u00f6nhausen 6310",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-hohenschoenhausen/"
+    },
+    "6501": {
+        "name": "Freiwillige Feuerwehr Karlshorst 6501",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-karlshorst/"
+    },
+    "6401": {
+        "name": "Freiwillige Feuerwehr Lichtenberg 6401",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-lichtenberg/"
+    },
+    "6330": {
+        "name": "Freiwillige Feuerwehr Wartenberg-Malchow 6330",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-wartenberg-malchow/"
+    },
+    "6490": {
+        "name": "Rettungswache Rummelsburg 6490",
+        "url": "/ueber-uns/standorte/rettungswache-rummelsburg/"
+    },
+    "6200": {
+        "name": "Feuerwache Hellersdorf 6200",
+        "url": "/ueber-uns/standorte/feuerwache-hellersdorf/"
+    },
+    "6100": {
+        "name": "Feuerwache Marzahn 6100",
+        "url": "/ueber-uns/standorte/feuerwache-marzahn/"
+    },
+    "6120": {
+        "name": "Freiwillige Feuerwehr Biesdorf 6120",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-biesdorf/"
+    },
+    "6230": {
+        "name": "Freiwillige Feuerwehr Hellersdorf 6230",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-hellersdorf/"
+    },
+    "6210": {
+        "name": "Freiwillige Feuerwehr Kaulsdorf 6210",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-kaulsdorf/"
+    },
+    "6220": {
+        "name": "Freiwillige Feuerwehr Mahlsdorf 6220",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-mahlsdorf/"
+    },
+    "6110": {
+        "name": "Freiwillige Feuerwehr Marzahn 6110",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-marzahn/"
+    },
+    "6204": {
+        "name": "Rettungswache Kaulsdorf 6204",
+        "url": "/ueber-uns/standorte/rettungswache-kaulsdorf/"
+    },
+    "6105": {
+        "name": "Rettungswache Unfallkrankenhaus Berlin 6105",
+        "url": "/ueber-uns/standorte/rettungswache-unfallkrankenhaus-berlin/"
+    },
+    "6139": {
+        "name": "Technischer Dienst II 6139",
+        "url": "/ueber-uns/standorte/technischer-dienst-ii/"
+    },
+    "1400": {
+        "name": "Feuerwache Moabit 1400",
+        "url": "/ueber-uns/standorte/feuerwache-moabit/"
+    },
+    "2100": {
+        "name": "Feuerwache Schillerpark 2100",
+        "url": "/ueber-uns/standorte/feuerwache-schillerpark/"
+    },
+    "1700": {
+        "name": "Feuerwache Tiergarten 1700",
+        "url": "/ueber-uns/standorte/feuerwache-tiergarten/"
+    },
+    "2500": {
+        "name": "Feuerwache Wedding 2500",
+        "url": "/ueber-uns/standorte/feuerwache-wedding/"
+    },
+    "1110": {
+        "name": "Freiwillige Feuerwehr Mitte 1110",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-mitte/"
+    },
+    "1401": {
+        "name": "Freiwillige Feuerwehr Moabit 1401",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-moabit/"
+    },
+    "2501": {
+        "name": "Freiwillige Feuerwehr Wedding 2501",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-wedding/"
+    },
+    "1705": {
+        "name": "Rettungswache Bundeswehrkrankenhaus 1705",
+        "url": "/ueber-uns/standorte/rettungswache-bundeswehrkrankenhaus/"
+    },
+    "3504": {
+        "name": "Rettungswache Tiergarten S\u00fcd 3504",
+        "url": "/ueber-uns/standorte/rettungswache-tiergarten-sued/"
+    },
+    "1100": {
+        "name": "Lehrrettungswache Mitte 1100",
+        "url": "/ueber-uns/standorte/lehrrettungswache-mitte/"
+    },
+    "5200": {
+        "name": "Feuerwache Buckow 5200",
+        "url": "/ueber-uns/standorte/feuerwache-buckow/"
+    },
+    "5100": {
+        "name": "Feuerwache Neuk\u00f6lln 5100",
+        "url": "/ueber-uns/standorte/feuerwache-neukoelln/"
+    },
+    "5101": {
+        "name": "Freiwillige Feuerwehr Neuk\u00f6lln 5101",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-neukoelln/"
+    },
+    "5210": {
+        "name": "Freiwillige Feuerwehr Rudow 5210",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-rudow/"
+    },
+    "2600": {
+        "name": "Feuerwache Pankow 2600",
+        "url": "/ueber-uns/standorte/feuerwache-pankow/"
+    },
+    "1300": {
+        "name": "Feuerwache Prenzlauer Berg 1300",
+        "url": "/ueber-uns/standorte/feuerwache-prenzlauer-berg/"
+    },
+    "6300": {
+        "name": "Feuerwache Wei\u00dfensee 6300",
+        "url": "/ueber-uns/standorte/feuerwache-weissensee/"
+    },
+    "6360": {
+        "name": "Freiwillige Feuerwehr Blankenburg 6360",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-blankenburg/"
+    },
+    "2630": {
+        "name": "Freiwillige Feuerwehr Blankenfelde 2630",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-blankenfelde/"
+    },
+    "2710": {
+        "name": "Freiwillige Feuerwehr Buch 2710",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-buch/"
+    },
+    "2620": {
+        "name": "Freiwillige Feuerwehr Buchholz 2620",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-buchholz/"
+    },
+    "6370": {
+        "name": "Freiwillige Feuerwehr Heinersdorf 6370",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-heinersdorf/"
+    },
+    "2720": {
+        "name": "Freiwillige Feuerwehr Karow 2720",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-karow/"
+    },
+    "2610": {
+        "name": "Freiwillige Feuerwehr Niedersch\u00f6nhausen 2610",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-niederschoenhausen/"
+    },
+    "2650": {
+        "name": "Freiwillige Feuerwehr Pankow 2650",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-pankow/"
+    },
+    "1310": {
+        "name": "Freiwillige Feuerwehr Prenzlauer Berg 1310",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-prenzlauer-berg/"
+    },
+    "6301": {
+        "name": "Freiwillige Feuerwehr Wei\u00dfensee 6301",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-weissensee/"
+    },
+    "2640": {
+        "name": "Freiwillige Feuerwehr Wilhelmsruh 2640",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-wilhelmsruh/"
+    },
+    "2704": {
+        "name": "Rettungswache Buch 2704",
+        "url": "/ueber-uns/standorte/rettungswache-buch/"
+    },
+    "2604": {
+        "name": "Rettungswache Pankow Mitte 2604",
+        "url": "/ueber-uns/standorte/rettungswache-pankow-mitte/"
+    },
+    "2300": {
+        "name": "Feuerwache Hermsdorf 2300",
+        "url": "/ueber-uns/standorte/feuerwache-hermsdorf/"
+    },
+    "2400": {
+        "name": "Feuerwache Tegel 2400",
+        "url": "/ueber-uns/standorte/feuerwache-tegel/"
+    },
+    "2200": {
+        "name": "Feuerwache Wittenau 2200",
+        "url": "/ueber-uns/standorte/feuerwache-wittenau/"
+    },
+    "2320": {
+        "name": "Freiwillige Feuerwehr Frohnau 2320",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-frohnau/"
+    },
+    "2410": {
+        "name": "Freiwillige Feuerwehr Heiligensee 2410",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-heiligensee/"
+    },
+    "2301": {
+        "name": "Freiwillige Feuerwehr Hermsdorf 2301",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-hermsdorf/"
+    },
+    "2401": {
+        "name": "Freiwillige Feuerwehr Tegel 2401",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-tegel/"
+    },
+    "2420": {
+        "name": "Freiwillige Feuerwehr Tegelort 2420",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-tegelort/"
+    },
+    "2201": {
+        "name": "Freiwillige Feuerwehr Wittenau 2201",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-wittenau/"
+    },
+    "3100": {
+        "name": "Feuerwache Spandau-Nord 3100",
+        "url": "/ueber-uns/standorte/feuerwache-spandau-nord/"
+    },
+    "3200": {
+        "name": "Feuerwache Spandau-S\u00fcd 3200",
+        "url": "/ueber-uns/standorte/feuerwache-spandau-sued/"
+    },
+    "3601": {
+        "name": "Freiwillige Feuerwehr Charlottenburg-Nord 3601",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-charlottenburg-nord/"
+    },
+    "3210": {
+        "name": "Freiwillige Feuerwehr Gatow 3210",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-gatow/"
+    },
+    "3220": {
+        "name": "Freiwillige Feuerwehr Kladow 3220",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-kladow/"
+    },
+    "3101": {
+        "name": "Freiwillige Feuerwehr Spandau-Nord 3101",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-spandau-nord/"
+    },
+    "3110": {
+        "name": "Freiwillige Feuerwehr Staaken 3110",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-staaken/"
+    },
+    "3104": {
+        "name": "Rettungswache Falkenhagener Feld 3104",
+        "url": "/ueber-uns/standorte/rettungswache-falkenhagener-feld/"
+    },
+    "3103": {
+        "name": "Rettungswache Lynar 3103",
+        "url": "/ueber-uns/standorte/rettungswache-lynar/"
+    },
+    "3690": {
+        "name": "Rettungswache Siemensstadt 3690",
+        "url": "/ueber-uns/standorte/rettungswache-siemensstadt/"
+    },
+    "4600": {
+        "name": "Feuerwache Lichterfelde 4600",
+        "url": "/ueber-uns/standorte/feuerwache-lichterfelde/"
+    },
+    "4200": {
+        "name": "Feuerwache Steglitz 4200",
+        "url": "/ueber-uns/standorte/feuerwache-steglitz/"
+    },
+    "4500": {
+        "name": "Feuerwache Wannsee 4500",
+        "url": "/ueber-uns/standorte/feuerwache-wannsee/"
+    },
+    "4100": {
+        "name": "Feuerwache Zehlendorf 4100",
+        "url": "/ueber-uns/standorte/feuerwache-zehlendorf/"
+    },
+    "4601": {
+        "name": "Freiwillige Feuerwehr Lichterfelde 4601",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-lichterfelde/"
+    },
+    "4101": {
+        "name": "Freiwillige Feuerwehr Zehlendorf 4101",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-zehlendorf/"
+    },
+    "4604": {
+        "name": "Rettungswache Lankwitz 4604",
+        "url": "/ueber-uns/standorte/rettungswache-lankwitz/"
+    },
+    "4700": {
+        "name": "Feuerwache Marienfelde 4700",
+        "url": "/ueber-uns/standorte/feuerwache-marienfelde/"
+    },
+    "4400": {
+        "name": "Feuerwache Sch\u00f6neberg 4400",
+        "url": "/ueber-uns/standorte/feuerwache-schoeneberg/"
+    },
+    "4300": {
+        "name": "Feuerwache Tempelhof 4300",
+        "url": "/ueber-uns/standorte/feuerwache-tempelhof/"
+    },
+    "4710": {
+        "name": "Freiwillige Feuerwehr Lichtenrade 4710",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-lichtenrade/"
+    },
+    "4701": {
+        "name": "Freiwillige Feuerwehr Marienfelde 4701",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-marienfelde/"
+    },
+    "4401": {
+        "name": "Freiwillige Feuerwehr Sch\u00f6neberg 4401",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-schoeneberg/"
+    },
+    "3490": {
+        "name": "Rettungswache Friedenau 3490",
+        "url": "/ueber-uns/standorte/rettungswache-friedenau/"
+    },
+    "4390": {
+        "name": "Rettungswache Mariendorf 4390",
+        "url": "/ueber-uns/standorte/rettungswache-mariendorf/"
+    },
+    "4790": {
+        "name": "Rettungswache Marienfelde-S\u00fcd 4790",
+        "url": "/ueber-uns/standorte/rettungswache-marienfelde-sued/"
+    },
+    "5400": {
+        "name": "Feuerwache K\u00f6penick 5400",
+        "url": "/ueber-uns/standorte/feuerwache-koepenick/"
+    },
+    "5300": {
+        "name": "Feuerwache Treptow 5300",
+        "url": "/ueber-uns/standorte/feuerwache-treptow/"
+    },
+    "5310": {
+        "name": "Freiwillige Feuerwehr Adlershof 5310",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-adlershof/"
+    },
+    "5330": {
+        "name": "Freiwillige Feuerwehr Altglienicke 5330",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-altglienicke/"
+    },
+    "5320": {
+        "name": "Freiwillige Feuerwehr Bohnsdorf 5320",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-bohnsdorf/"
+    },
+    "5410": {
+        "name": "Freiwillige Feuerwehr Friedrichshagen 5410",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-friedrichshagen/"
+    },
+    "5470": {
+        "name": "Freiwillige Feuerwehr Gr\u00fcnau 5470",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-gruenau/"
+    },
+    "5401": {
+        "name": "Freiwillige Feuerwehr K\u00f6penick 5401",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-koepenick/"
+    },
+    "5440": {
+        "name": "Freiwillige Feuerwehr M\u00fcggelheim 5440",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-mueggelheim/"
+    },
+    "5340": {
+        "name": "Freiwillige Feuerwehr Obersch\u00f6neweide 5340",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-oberschoeneweide/"
+    },
+    "5460": {
+        "name": "Freiwillige Feuerwehr Rauchfangswerder 5460",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-rauchfangswerder/"
+    },
+    "5450": {
+        "name": "Freiwillige Feuerwehr Schm\u00f6ckwitz 5450",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-schmoeckwitz/"
+    },
+    "5301": {
+        "name": "Freiwillige Feuerwehr Treptow 5301",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-treptow/"
+    },
+    "5430": {
+        "name": "Freiwillige Feuerwehr Wilhelmshagen 5430",
+        "url": "/ueber-uns/standorte/freiwillige-feuerwehr-wilhelmshagen/"
+    },
+    "5390": {
+        "name": "Rettungswache Adlershof 5390",
+        "url": "/ueber-uns/standorte/rettungswache-adlershof/"
+    },
+    "5304": {
+        "name": "Rettungswache Bohnsdorf 5304",
+        "url": "/ueber-uns/standorte/rettungswache-bohnsdorf/"
+    },
+    "5404": {
+        "name": "Rettungswache K\u00f6penick 5404",
+        "url": "/ueber-uns/standorte/rettungswache-koepenick/"
+    },
+    "5490": {
+        "name": "Rettungswache Rahnsdorf 5490",
+        "url": "/ueber-uns/standorte/rettungswache-rahnsdorf/"
+    }
+}
