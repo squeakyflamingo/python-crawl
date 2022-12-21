@@ -1,0 +1,889 @@
+{
+    "3600": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW (12/7)",
+        "ELW 1 ZBV",
+        "ELW 1 B",
+        "KLEF",
+        "LKW 1",
+        "LKW 2 Ladebordwand",
+        "LKW 3 Ladekran",
+        "STEMO, Besatzung von OE RD (16/7)"
+    ],
+    "3500": [
+        "LHF",
+        "DLK 23-12",
+        "RTW",
+        "KLEF",
+        "GW RettMat",
+        "GW RettMat",
+        "RTW MHD"
+    ],
+    "3300": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-B (12/7)",
+        "ELW 1 C",
+        "LHF LFW, Besatzung von Lehrfeuerwache",
+        "RTW JUH"
+    ],
+    "3400": [
+        "LHF",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "FwA Notstrom",
+        "RTW DRK"
+    ],
+    "3301": [
+        "LHF 16/12",
+        "LF 16 Z",
+        "FwA TS"
+    ],
+    "3401": [
+        "LHF",
+        "CBRN ErkW"
+    ],
+    "3503": [
+        "RTW, Besatzung von OE RD (16/5)"
+    ],
+    "3390": [
+        "RTW MHD (8/5 09:00-17:00)",
+        "ITW MHD"
+    ],
+    "3404": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "3304": [
+        "RTW, Besatzung von FW 1400"
+    ],
+    "3639": [
+        "TM 50",
+        "RW 3",
+        "FwK 30",
+        "Radlader",
+        "Teleskopstapler",
+        "WLF Gr. 1",
+        "MTF 1",
+        "MTF 3",
+        "GW Mess",
+        "GW Wasser",
+        "AB Atemschutz",
+        "AB Be-/Entl\u00fcften",
+        "AB Dekon P",
+        "AB Gefahrgut",
+        "AB Generator",
+        "AB L\u00f6schger\u00e4te",
+        "AB Mulde",
+        "AB Pritsche",
+        "AB R\u00fcst-Wasser",
+        "AB Schaum",
+        "AB Ventilator",
+        "AB R\u00fcstmaterial",
+        "AB Brand-Schaum",
+        "AB CBRN",
+        "FwA Lenz",
+        "FwA Lichtmast",
+        "FwA Tieflader"
+    ],
+    "1200": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW (12/7)",
+        "ELW 1 C",
+        "RTW JUH"
+    ],
+    "1600": [
+        "LHF",
+        "DLK 23-12",
+        "RTW",
+        "RTW",
+        "RTW-X",
+        "WLF",
+        "AB MANV",
+        "AB RettMat",
+        "AB Schlauchmaterial",
+        "FwA Notstrom",
+        "NEF, Besatzung von OE RD (12/7)",
+        "RTW JUH",
+        "RTW JUH (12/7)",
+        "ITW JUH"
+    ],
+    "1500": [
+        "LHF",
+        "NEF",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "ELW 1 B",
+        "KLEF",
+        "RTW, Besatzung von OE RD (16/5)",
+        "RTW, Besatzung von OE RD",
+        "RTW DRK"
+    ],
+    "1201": [
+        "LHF 16/12",
+        "LF 16 Z"
+    ],
+    "1601": [
+        "LHF 16/12"
+    ],
+    "1501": [
+        "LHF 16/12"
+    ],
+    "1204": [
+        "RTW, Besatzung von OE RD (16/5)",
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "6500": [
+        "LHF",
+        "RTW"
+    ],
+    "6400": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "LKW 1",
+        "FwA Notstrom",
+        "RTW, Besatzung von FW 6500 (12/7)",
+        "RTW ASB"
+    ],
+    "6320": [
+        "LHF 16/12",
+        "FRF",
+        "LF 16 Z",
+        "FwA TS",
+        "NEF, Besatzung von OE RD",
+        "RTW, Besatzung von OE RD"
+    ],
+    "6310": [
+        "LHF",
+        "MTF 1",
+        "RTW, Besatzung von OE RD (12/7)",
+        "RTW ASB"
+    ],
+    "6501": [
+        "LHF 16/12",
+        "LF 16 TS"
+    ],
+    "6401": [
+        "LHF 16/12"
+    ],
+    "6330": [
+        "LHF 20/8",
+        "MTF 1",
+        "LF 16 TS",
+        "RTW, Besatzung von OE RD"
+    ],
+    "6402": [
+        "RTW ASB (12/7)"
+    ],
+    "6490": [
+        "RTW ASB"
+    ],
+    "6407": [
+        "ITW ASB"
+    ],
+    "6200": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW (12/7)",
+        "ELW 1 Erkunder",
+        "RTW ASB"
+    ],
+    "6100": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "TLF 24/50",
+        "RTW",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "ELW 1 C",
+        "ELW HR",
+        "LKW 2 Ladebordwand",
+        "MTF 1",
+        "GW H\u00f6henrettung",
+        "FwA RTB",
+        "STEMO, Besatzung von OE RD (16/7)",
+        "RTW ASB (12/7)"
+    ],
+    "6120": [
+        "LHF 16/12",
+        "TLF 16/24",
+        "MTF 1",
+        "LF 16 TS",
+        "FwA TS",
+        "RTW, Besatzung von FW 6100"
+    ],
+    "6230": [
+        "LHF 20/12",
+        "LHF 20/8",
+        "MTF 1"
+    ],
+    "6210": [
+        "LHF 10/5",
+        "LHF 16/12"
+    ],
+    "6220": [
+        "LHF 16/12",
+        "FRF",
+        "LF 16 TS",
+        "FwA TS"
+    ],
+    "6110": [
+        "LHF 16/12",
+        "LF 16 Z",
+        "SW 2000",
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "6204": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "6106": [
+        "NEF, Besatzung von LRW 1100"
+    ],
+    "6139": [
+        "RW 3",
+        "FwK 30",
+        "Teleskopstapler",
+        "WLF Gr. 2",
+        "GW Mess",
+        "AB Atemschutz",
+        "AB Be-/Entl\u00fcften",
+        "AB Gefahrgut",
+        "AB Generator",
+        "AB Mulde",
+        "AB Pritsche",
+        "AB R\u00fcst-Einsturz",
+        "AB Schaum",
+        "AB Strahlenschutz",
+        "AB Ventilator",
+        "AB Brand-Schaum",
+        "FwA Lenz",
+        "FwA Lichtmast",
+        "FwA Sanit\u00e4r",
+        "FwA Tieflader"
+    ],
+    "1400": [
+        "LHF",
+        "DLK 23-12",
+        "RTW",
+        "RTW-X",
+        "LKW 2 Ladebordwand",
+        "WLF",
+        "AB MANV",
+        "AB Sand",
+        "FwA Notstrom"
+    ],
+    "2100": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "GW SAN",
+        "FwA RTB",
+        "RTW DRK"
+    ],
+    "1700": [
+        "LHF",
+        "DLK 23-12",
+        "TLF 24/40",
+        "RTW",
+        "MZB",
+        "RTW MHD"
+    ],
+    "2500": [
+        "LHF",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "LHF LFW, Besatzung von Lehrfeuerwache",
+        "RTW BW"
+    ],
+    "1110": [
+        "LHF 16/12",
+        "LHF 20/12 CAFS",
+        "RTW BW"
+    ],
+    "1401": [
+        "LHF 16/12",
+        "LF 16 Z",
+        "SW 2000"
+    ],
+    "2501": [
+        "LHF 16/12",
+        "MTF 1",
+        "LF 16 Z",
+        "SW 2000"
+    ],
+    "1704": [
+        "NEF BW",
+        "ITW BW"
+    ],
+    "3504": [
+        "RTW, Besatzung von FW 1700"
+    ],
+    "1100": [
+        "LHF",
+        "RTW-S",
+        "RTW-S",
+        "RTW-I",
+        "NEF",
+        "RTW",
+        "RTW",
+        "RTW",
+        "ELW 1 Erkunder",
+        "GW SAN",
+        "RTW BW"
+    ],
+    "5200": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "RTW JUH"
+    ],
+    "5100": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12 Gelenk",
+        "NEF",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW, Besatzung von OE RD (12/7)",
+        "RTW DRK"
+    ],
+    "5101": [
+        "LHF 16/12",
+        "LF 16 Z"
+    ],
+    "5210": [
+        "LHF 20/8",
+        "TLF 4000",
+        "FRF",
+        "ELW 1 Erkunder",
+        "MTF 1",
+        "FwA TS",
+        "RTW, Besatzung von OE RD"
+    ],
+    "2600": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW",
+        "ELW 1 C",
+        "GW SAN",
+        "FwA Notstrom"
+    ],
+    "1300": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "FwA TS",
+        "RTW BW"
+    ],
+    "6300": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "ELW 1 A",
+        "KLEF",
+        "LKW 2 Ladebordwand",
+        "GW Dekon P",
+        "FwA RTB",
+        "RTW, Besatzung von OE RD",
+        "RTW MHD"
+    ],
+    "6360": [
+        "LHF 16/12",
+        "TLF 16/24",
+        "LF 16 TS"
+    ],
+    "2630": [
+        "LHF 16/12",
+        "TLF 20/24",
+        "LF 16 Z",
+        "SW 2000",
+        "FwA RTB",
+        "RTW, Besatzung von FW 1300"
+    ],
+    "2710": [
+        "LHF 16/12",
+        "DLK 23-12",
+        "LF 20"
+    ],
+    "2620": [
+        "LHF 16/12",
+        "TLF 16/24",
+        "ELW 1 Erkunder",
+        "LF 16 Z",
+        "SW 2000",
+        "FwA RTB"
+    ],
+    "6370": [
+        "LHF 16/12",
+        "MTF 1"
+    ],
+    "2720": [
+        "LHF",
+        "TLF 24/50",
+        "MTF 1",
+        "LF 20",
+        "RTW MHD"
+    ],
+    "2610": [
+        "LHF 20/12",
+        "LF 16 TS"
+    ],
+    "2650": [
+        "LHF 16/12",
+        "FwA TS",
+        "RTW, Besatzung von FW 2600 (12/7)"
+    ],
+    "1310": [
+        "LHF 16/12",
+        "FwA TS",
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "6301": [
+        "LHF 16/12",
+        "LHF 20/12",
+        "ELW 2",
+        "LF 16 TS",
+        "SW 2000",
+        "FwA TS"
+    ],
+    "2640": [
+        "LHF 16/12",
+        "MTF 1",
+        "LF 20",
+        "FwA TS",
+        "RTW, Besatzung von FW 2200"
+    ],
+    "2704": [
+        "RTW, Besatzung von FW 6300"
+    ],
+    "2604": [
+        "RTW MHD"
+    ],
+    "2300": [
+        "LHF",
+        "TLF",
+        "RTW",
+        "RTW (12/7)",
+        "RTW-X",
+        "NEF, Besatzung von OE RD (12/7)"
+    ],
+    "2400": [
+        "LHF",
+        "DLK 23-12",
+        "TLF 24/50",
+        "NEF",
+        "RTW (12/7)",
+        "RTW-X",
+        "FwA RTB",
+        "FwA TS",
+        "FwA Notstrom",
+        "RTW MHD"
+    ],
+    "2200": [
+        "LHF",
+        "DLK 23-12",
+        "ELW 1 C",
+        "KLEF",
+        "CBRN ErkW",
+        "RTW, Besatzung von OE RD",
+        "RTW MHD"
+    ],
+    "2320": [
+        "LHF 16/12",
+        "RTW",
+        "MTF 1",
+        "LF 16 Z",
+        "SW 2000",
+        "RTW, Besatzung von FW 2300"
+    ],
+    "2410": [
+        "LHF 16/12",
+        "FRF",
+        "MTF 1",
+        "FwA RTB",
+        "FwA TS"
+    ],
+    "2301": [
+        "LHF 20/8",
+        "MTF 1"
+    ],
+    "2401": [
+        "LHF 16/12"
+    ],
+    "2420": [
+        "LHF 16/12",
+        "TLF 16/24",
+        "FRF",
+        "MTF 1",
+        "MZB",
+        "FwA RTB",
+        "FwA TS",
+        "RTW, Besatzung von FW 2400"
+    ],
+    "2201": [
+        "LHF 20/12 CAFS",
+        "LF 16 TS",
+        "GW RettMat",
+        "FwA TS"
+    ],
+    "3100": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-X",
+        "ELW 1 C",
+        "CBRN ErkW",
+        "SW 2000",
+        "FwA RTB",
+        "RTW DRK"
+    ],
+    "3200": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW (12/7)",
+        "RTW-B",
+        "RTW-X",
+        "LKW 1",
+        "WLF",
+        "AB Schlauchmaterial",
+        "AB Sonderl\u00f6schmittel",
+        "AB \u00d6l-Wasser",
+        "AB \u00d6lsperre",
+        "LB",
+        "FwA \u00d6L-MOP",
+        "FwA \u00d6lseparator",
+        "FwA RTB",
+        "FwA Notstrom",
+        "RTW DRK"
+    ],
+    "3601": [
+        "ELW 1 Erkunder",
+        "ELW 2",
+        "MTF 1"
+    ],
+    "3210": [
+        "LHF 16/12",
+        "RTW",
+        "MTF 1",
+        "LF 20",
+        "SW 2000",
+        "FwA RTB"
+    ],
+    "3220": [
+        "LHF 16/12",
+        "LHF 20/8",
+        "TLF",
+        "FRF",
+        "LF 16 Z",
+        "FwA RTB",
+        "FwA TS",
+        "RTW, Besatzung von FW 3200"
+    ],
+    "3101": [
+        "LHF 16/12",
+        "LF 16 Z",
+        "FwA TS"
+    ],
+    "3110": [
+        "LHF 16/12",
+        "LHF 16/12",
+        "TLF 24/50",
+        "MTF 1",
+        "LF 16 Z",
+        "FwA TS",
+        "RTW, Besatzung von FW 3100"
+    ],
+    "3104": [
+        "RTW, Besatzung von FW 3100"
+    ],
+    "3103": [
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "3690": [
+        "RTW DRK"
+    ],
+    "4600": [
+        "LHF",
+        "DLK 23-12",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "GW Hygiene",
+        "FwA RTB",
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "4200": [
+        "LHF",
+        "DLK 23-12",
+        "RTW",
+        "RTW"
+    ],
+    "4500": [
+        "LHF",
+        "RTW",
+        "RTW (12/7)",
+        "MZB",
+        "FwA RTB"
+    ],
+    "4100": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "TLF 24/50",
+        "NEF",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "ELW 1 C",
+        "ELW 1 LBD",
+        "GW Dekon P",
+        "FwA RTB"
+    ],
+    "4601": [
+        "LHF 16/12",
+        "LF 16 Z",
+        "FwA TS"
+    ],
+    "4101": [
+        "LHF 16/12",
+        "MTF 1",
+        "LF 16 TS",
+        "FwA TS"
+    ],
+    "4604": [
+        "RTW, Besatzung von FW 4100"
+    ],
+    "4700": [
+        "LHF",
+        "DLK 23-12",
+        "TLF 24/50",
+        "NEF",
+        "RTW",
+        "RTW-B (12/7)",
+        "RTW-X",
+        "ELW 1 LBD-V",
+        "CBRN ErkW",
+        "FwA RTB",
+        "FwA Notstrom",
+        "RTW, Besatzung von OE RD (12/5)"
+    ],
+    "4400": [
+        "LHF",
+        "DLK 23-12",
+        "TroLF 2000",
+        "NEF",
+        "RTW",
+        "RTW (12/7)",
+        "RTW JUH",
+        "RTW JUH (12/7)"
+    ],
+    "4300": [
+        "LHF",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-X",
+        "ELW 1 C",
+        "GW SAN",
+        "FwA RTB",
+        "RTW DRK"
+    ],
+    "4710": [
+        "LHF 16/12",
+        "TLF 20/24",
+        "FRF",
+        "MTF 1",
+        "SW 2000",
+        "FwA TS",
+        "RTW, Besatzung von OE RD (12/7)",
+        "RTW JUH"
+    ],
+    "4701": [
+        "LHF 16/12",
+        "LF 16 Z",
+        "GW RettMat"
+    ],
+    "4401": [
+        "LHF",
+        "LHF",
+        "LF 16 Z"
+    ],
+    "3490": [
+        "RTW DRK",
+        "ITW DRK"
+    ],
+    "4390": [
+        "RTW, Besatzung von OE RD (12/5)",
+        "RTW, Besatzung von OE RD",
+        "STEMO, Besatzung von OE RD (16/7)",
+        "ITW, Besatzung von OE RD (12/3)"
+    ],
+    "4790": [
+        "RTW JUH"
+    ],
+    "5400": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "TLF 24/50",
+        "NEF",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "WLF",
+        "AB \u00d6l-Bindemittel",
+        "AB \u00d6lsperre",
+        "MZB",
+        "FwA RTB",
+        "FwA TS",
+        "RTW, Besatzung von OE RD (12/5)"
+    ],
+    "5300": [
+        "LHF",
+        "LHF-M",
+        "DLK 23-12",
+        "NEF",
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "ELW 1 C",
+        "KLEF",
+        "LKW 1",
+        "LKW 2 Ladebordwand",
+        "MTF 1",
+        "GW Dekon P",
+        "FwA RTB",
+        "RTW JUH (16/7)"
+    ],
+    "5310": [
+        "LHF 20/12 CAFS",
+        "TLF 4000",
+        "LKW 3 Ladekran",
+        "SW 2000",
+        "FwA TS"
+    ],
+    "5330": [
+        "LHF 16/12",
+        "LHF 20/8",
+        "LF 16 TS",
+        "FwA TS",
+        "RTW, Besatzung von FW 5300"
+    ],
+    "5320": [
+        "LHF 16/12",
+        "TLF 16/24",
+        "LF 20"
+    ],
+    "5410": [
+        "LHF 16/12",
+        "TLF 16/24",
+        "LF 20",
+        "MZB",
+        "FwA RTB",
+        "RTW, Besatzung von FW 5400"
+    ],
+    "5470": [
+        "LHF",
+        "TLF 16/24",
+        "LF 20",
+        "GW RettMat",
+        "FwA RTB"
+    ],
+    "5401": [
+        "LHF 16/12",
+        "LHF 20/12",
+        "MTF 1",
+        "LF 16 Z",
+        "FwA TS"
+    ],
+    "5440": [
+        "LHF 16/12",
+        "TLF 24/50",
+        "FRF",
+        "ELW 1 Erkunder",
+        "LF 16 TS",
+        "SW 2000",
+        "FwA RTB"
+    ],
+    "5340": [
+        "LHF 16/12",
+        "LHF 16/12",
+        "FRF",
+        "MTF 1"
+    ],
+    "5460": [
+        "LHF 10/5",
+        "FRF",
+        "MTF 1",
+        "LF 20",
+        "FwA RTB",
+        "FwA TS"
+    ],
+    "5450": [
+        "LHF 16/12",
+        "FRF"
+    ],
+    "5301": [
+        "LHF 16/12",
+        "FwA TS"
+    ],
+    "5430": [
+        "LHF 10/5",
+        "LHF 20/12",
+        "FRF",
+        "ELW 1 Erkunder",
+        "FwA RTB",
+        "FwA TS"
+    ],
+    "5390": [
+        "RTW, Besatzung von OE RD (12/7)"
+    ],
+    "5304": [
+        "RTW, Besatzung von FW 5100"
+    ],
+    "5404": [
+        "RTW ASB"
+    ],
+    "5490": [
+        "RTW ASB"
+    ]
+}

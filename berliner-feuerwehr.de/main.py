@@ -57,7 +57,7 @@ def getFahrzeuge():
     alleFahrzeuge = {}
 
     for wache, value in wachen.items():
-        print(value["name"])
+        # print(value["name"])
         html = getPage(baseUrl + value["url"])
         fzbf = html.find_all("div", class_="fzbf")
 
