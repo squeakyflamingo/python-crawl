@@ -1,0 +1,6 @@
+{
+    "Pr\u00fcfungsfragenquiz": "/informieren/ausbildung/pruefungsfragenquiz/",
+    "Pr\u00fcfungsfragenquiz WRD": "/mitmachen/wasserrettungsdienst/pruefungsfragenquiz-wrd/",
+    "Pr\u00fcfungsfragenquiz Bootswesen": "/mitmachen/bootswesen/pruefungsfragenquiz-bootswesen/",
+    "IuK-Pr\u00fcfungsfragenquiz": "/mitmachen/sprechfunk/iuk-pruefungsfragenquiz/"
+}
