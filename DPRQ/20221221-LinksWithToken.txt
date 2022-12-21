@@ -1,0 +1,6 @@
+{
+    "Pr\u00fcfungsfragenquiz": "https://services.dlrg.net/service.php?doc=quiz&strict=1&token=94b2fd5ee0eb6bdf639e0f4266a539de",
+    "Pr\u00fcfungsfragenquiz WRD": "https://services.dlrg.net/service.php?doc=quiz&strict=1&token=680cef8845eb08e964702cb0f1973f80",
+    "Pr\u00fcfungsfragenquiz Bootswesen": "https://services.dlrg.net/service.php?doc=quiz&strict=1&token=f01aeb78401c129acfc9c6a57828f9a0",
+    "IuK-Pr\u00fcfungsfragenquiz": "https://services.dlrg.net/service.php?doc=quiz&strict=1&token=474a3c6344dbe4867bbb44b27d11ac3d"
+}

@@ -49,8 +49,8 @@ def getPQLinks():
 def getLinkWithToken():
     filename = "{}-{}.txt".format(date, "LinksWithToken")
 
-    if exists(filename):
-        return json.load(open(filename))
+    # if exists(filename):
+    #     return json.load(open(filename))
 
     pagelinks = getPQLinks()
     links = {}
@@ -58,12 +58,13 @@ def getLinkWithToken():
     for name, url in pagelinks.items():
         html = getPage(baseUrl[:-10] + url)
         scripts = html.find_all("script")
-        
-        for script in scripts:
-            if re.match("(https://services.dlrg.net/service.php?doc=quiz&strict=1&token=.*);", script.string):
-                link = re.match("(https://services.dlrg.net/service.php?doc=quiz&strict=1&token=.*);", script.string).group(1)
 
-        links[name] = link
+        for script in scripts:
+            # https://services.dlrg.net/service.php?doc=quiz&strict=1&token=f01aeb78401c129acfc9c6a57828f9a0
+            start = script.text.find("https://services.dlrg.net/service.php?doc=quiz&strict=1&token=")
+            
+            if start != -1:
+                links[name] = script.text[start : start + 62 + 32]
 
     saveResult(filename, links)
 
