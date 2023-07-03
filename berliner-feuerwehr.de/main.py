@@ -38,7 +38,7 @@ def getWachen():
 
     for a in anchors:
         url = a.attrs["href"]
-        name = a.strong.contents[0]
+        name = a.parent.h4.contents[0]
         wache = name[-4:]
         wachen[wache] = {"name": name, "url": url}
 
@@ -57,17 +57,30 @@ def getFahrzeuge():
     alleFahrzeuge = {}
 
     for wache, value in wachen.items():
+        # print(wache)
+        # if wache != "3400":
+        #     continue
         # print(value["name"])
         html = getPage(baseUrl + value["url"])
-        fzbf = html.find_all("div", class_="fzbf")
+        fzbf = html.find_all("div", class_="modul-bfwFz")
 
         fahrzeugListe = []
 
         for div in fzbf:
-            for caption in div.find_all("figcaption"):
-                fahrzeug = caption.contents[0]
-                if re.match("^(?!.*(Besatzung|0{3})).*(\d{4})(?:.*\(\d\d\/\d\))?$", fahrzeug):  # Filtern von Stützpunktfahrzeugen
-                    continue
+            if div("h3") and div.h3.contents[0] == "Von dieser Wache besetzte Fahrzeuge auf anderen Standorten":
+                continue
+
+            for caption in div.find_all("p", class_="image__caption"):
+                if len(caption) > 2:
+                    fahrzeug = caption.contents[2].strip()
+                else:
+                    fahrzeug = caption.contents[0].strip()
+
+                if len(caption) > 4:
+                    fahrzeug += " " + caption.contents[4].strip()
+                # print(fahrzeug)
+                # if re.match("^(?!.*(Besatzung|0{3})).*(\d{4})(?:.*\(\d\d\/\d\))?$", fahrzeug):  # Filtern von Stützpunktfahrzeugen
+                #     continue
                 fahrzeugListe.append(fahrzeug)
 
         alleFahrzeuge[wache] = fahrzeugListe

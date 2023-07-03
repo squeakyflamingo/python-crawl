@@ -1,0 +1,342 @@
+{
+    "3600": [
+        "RTW",
+        "RTW-X",
+        "RTW 3690 am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "3500": [
+        "RTW",
+        "RTW-X",
+        "RTW MHD"
+    ],
+    "3300": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW JUH"
+    ],
+    "3400": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW DRK"
+    ],
+    "3503": [
+        "RTW, Besatzung von OE RD Mo-Fr von 7.00 bis 23.00 Uhr besetzt."
+    ],
+    "3390": [
+        "RTW MHD Mo-Fr von 9.00 bis 17.00 Uhr besetzt.",
+        "RTW MHD Mo-Fr von 9.00 bis 17.00 Uhr besetzt."
+    ],
+    "3404": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "3304": [
+        "RTW, Besatzung von FW 1400"
+    ],
+    "1200": [
+        "RTW",
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW JUH"
+    ],
+    "1600": [
+        "RTW",
+        "RTW",
+        "RTW-X",
+        "RTW JUH",
+        "RTW JUH am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "1500": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW, Besatzung von OE RD Mo-Fr von 7.00 bis 23.00 Uhr besetzt.",
+        "RTW, Besatzung von OE RD",
+        "RTW DRK"
+    ],
+    "1204": [
+        "RTW, Besatzung von OE RD Mo-Fr von 7.00 bis 23.00 Uhr besetzt.",
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "6500": [
+        "RTW",
+        "RTW-X",
+        "RTW 6400 am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "6400": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW, Besatzung von FW 6500 am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW ASB"
+    ],
+    "6320": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "6310": [
+        "RTW, Besatzung von OE RD t\u00e4glich von 9.00 bis 21.00 Uhr besetzt.",
+        "RTW ASB"
+    ],
+    "6330": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "6402": [
+        "RTW ASB am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "6490": [
+        "RTW ASB"
+    ],
+    "6200": [
+        "RTW",
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW ASB"
+    ],
+    "6100": [
+        "RTW",
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW ASB am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "6120": [
+        "RTW, Besatzung von FW 6100"
+    ],
+    "6110": [
+        "RTW, Besatzung von OE RD t\u00e4glich von 9.00 bis 21.00 Uhr besetzt."
+    ],
+    "6204": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "1400": [
+        "RTW",
+        "RTW-X"
+    ],
+    "2100": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW DRK"
+    ],
+    "1700": [
+        "RTW",
+        "RTW-X",
+        "RTW MHD"
+    ],
+    "2500": [
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW BW"
+    ],
+    "1110": [
+        "RTW BW"
+    ],
+    "3504": [
+        "RTW, Besatzung von FW 1700"
+    ],
+    "1100": [
+        "RTW-S",
+        "RTW-S",
+        "RTW-I",
+        "RTW",
+        "RTW",
+        "RTW",
+        "RTW BW"
+    ],
+    "5200": [
+        "RTW 1",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW JUH"
+    ],
+    "5100": [
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW, Besatzung von OE RD t\u00e4glich von 9.00 bis 21.00 Uhr besetzt.",
+        "RTW DRK"
+    ],
+    "5210": [
+        "RTW, Besatzung von OE RD"
+    ],
+    "2600": [
+        "RTW",
+        "RTW",
+        "RTW 2650 am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "1300": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW BW"
+    ],
+    "6300": [
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW, Besatzung von OE RD",
+        "RTW MHD"
+    ],
+    "2630": [
+        "RTW, Besatzung von FW 1300"
+    ],
+    "2720": [
+        "RTW MHD"
+    ],
+    "2650": [
+        "RTW, Besatzung von FW 2600 am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "1310": [
+        "RTW, Besatzung von LRW 1100"
+    ],
+    "2640": [
+        "RTW, Besatzung von FW 2200"
+    ],
+    "2704": [
+        "RTW, Besatzung von FW 6300"
+    ],
+    "2604": [
+        "RTW MHD"
+    ],
+    "2300": [
+        "RTW",
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X"
+    ],
+    "2400": [
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW MHD"
+    ],
+    "2200": [
+        "RTW-X",
+        "RTW, Besatzung von OE RD",
+        "RTW MHD"
+    ],
+    "2320": [
+        "RTW",
+        "RTW, Besatzung von FW 2300"
+    ],
+    "2420": [
+        "RTW, Besatzung von FW 2400"
+    ],
+    "3100": [
+        "RTW",
+        "RTW-X",
+        "RTW DRK"
+    ],
+    "3200": [
+        "RTW",
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-B",
+        "RTW-X",
+        "RTW DRK"
+    ],
+    "3210": [
+        "RTW"
+    ],
+    "3220": [
+        "RTW, Besatzung von FW 3200"
+    ],
+    "3110": [
+        "RTW, Besatzung von FW 3100"
+    ],
+    "3104": [
+        "RTW, Besatzung von FW 3100"
+    ],
+    "3103": [
+        "RTW, Besatzung von OE RD am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "3690": [
+        "RTW, Besatzung von FW 3600 am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW DRK"
+    ],
+    "4600": [
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW, Besatzung von OE RD am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "4200": [
+        "RTW",
+        "RTW",
+        "RTW-X"
+    ],
+    "4500": [
+        "RTW",
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X"
+    ],
+    "4100": [
+        "RTW",
+        "RTW-B",
+        "RTW-X"
+    ],
+    "4604": [
+        "RTW, Besatzung von FW 4100"
+    ],
+    "4700": [
+        "RTW",
+        "RTW-B am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW, Besatzung von OE RD Mo-Fr von 9.00 bis 21.00 Uhr besetzt"
+    ],
+    "4400": [
+        "RTW",
+        "RTW am Tag von 07.00 bis 19.00 Uhr besetzt.",
+        "RTW-X",
+        "RTW JUH",
+        "RTW JUH am Tag von 07.00 bis 19.00 Uhr besetzt."
+    ],
+    "4300": [
+        "RTW",
+        "RTW-X",
+        "RTW DRK"
+    ],
+    "4710": [
+        "RTW, Besatzung von OE RD t\u00e4glich von 9.00 bis 21.00 Uhr besetzt.",
+        "RTW JUH"
+    ],
+    "3490": [
+        "RTW DRK"
+    ],
+    "4390": [
+        "RTW, Besatzung von OE RD Mo-Fr von 9.00 bis 21.00 Uhr besetzt",
+        "RTW, Besatzung von OE RD"
+    ],
+    "4790": [
+        "RTW JUH"
+    ],
+    "5400": [
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW, Besatzung von OE RD Mo-Fr von 9.00 bis 21.00 Uhr besetzt"
+    ],
+    "5300": [
+        "RTW",
+        "RTW-B",
+        "RTW-X",
+        "RTW JUH von 7.00 bis 23.00 Uhr besetzt"
+    ],
+    "5330": [
+        "RTW, Besatzung von FW 5300"
+    ],
+    "5410": [
+        "RTW, Besatzung von FW 5400"
+    ],
+    "5390": [
+        "RTW, Besatzung von OE RD t\u00e4glich von 9.00 bis 21.00 Uhr besetzt."
+    ],
+    "5304": [
+        "RTW, Besatzung von FW 5100"
+    ],
+    "5404": [
+        "RTW ASB"
+    ],
+    "5490": [
+        "RTW ASB"
+    ]
+}
